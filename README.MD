@@ -10,7 +10,5 @@ See COPYING for more information.
 *For building write ./build.sh from console.You need nasm,gcc,ld and You have to compile it from *nix os.
 *For running you need nasm.Write ./run.sh
 
-*os.img is for run kernel on virtual box
-
-*In source code I might wrote really useless,stupid... codes.Please be nice about them.Send your sugestions about them.
+*In source codes I might wrote really useless,stupid... codes.Please be nice about them.Send your sugestions about them.
 
